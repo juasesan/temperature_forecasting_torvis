@@ -33,6 +33,6 @@ The model was trained and tested on eleven healthy wind turbines and one present
 
 <div align="center">
 
-  ![test_wt2339](https://user-images.githubusercontent.com/51239155/234765253-52c1e994-d881-433e-8fce-7a31c8f1ae26.png)
+  ![imagen_2024-02-23_113559873](https://github.com/juasesan/temperature_forecasting_torvis/assets/51239155/5b803461-1501-413e-a14d-f9bcb5bdf445)
 
 </div>
